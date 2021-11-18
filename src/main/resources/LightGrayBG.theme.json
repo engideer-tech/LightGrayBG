@@ -1,0 +1,11 @@
+{
+  "name": "LightGrayBG",
+  "dark": false,
+  "author": "BlackDragon17",
+  "editorScheme": "/LightGrayBG.xml",
+  "ui": {
+    "Tree.background": "#fafafa",
+    "Editor.background": "#fafafa",
+    "EditorPane.background": "#fafafa"
+  }
+}

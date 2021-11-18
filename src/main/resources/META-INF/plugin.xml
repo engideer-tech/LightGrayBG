@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>org.BlackDragon17.LightGrayBG</id>
+    <name>LightGrayBG</name>
+    <vendor email="BlackDragon17x@gmail.com">BlackDragon17</vendor>
+
+    <description><![CDATA[
+    LightGrayBG is a simple theme which copies the IntelliJ Light theme styling,
+    only modifying the editor backgrounds to be light gray.
+    ]]></description>
+
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="1fbbd617-463b-43a8-a05a-f23cbe5d482b" path="/LightGrayBG.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>
