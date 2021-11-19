@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="40"
+   height="40"
+   viewBox="0 0 10.583333 10.583333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="LightGrayBG Logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="true"
+     showborder="true"
+     width="40mm"
+     units="px"
+     inkscape:snap-grids="true"
+     inkscape:zoom="15.806783"
+     inkscape:cx="18.91593"
+     inkscape:cy="13.443596"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="1491"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <filter
+       style="color-interpolation-filters:sRGB;"
+       inkscape:label="Drop Shadow"
+       id="filter4003"
+       x="-0.033993973"
+       y="-0.033993969"
+       width="1.0679879"
+       height="1.0679879">
+      <feFlood
+         flood-opacity="0.803922"
+         flood-color="rgb(0,0,0)"
+         result="flood"
+         id="feFlood3993" />
+      <feComposite
+         in="flood"
+         in2="SourceGraphic"
+         operator="in"
+         result="composite1"
+         id="feComposite3995" />
+      <feGaussianBlur
+         in="composite1"
+         stdDeviation="0.1"
+         result="blur"
+         id="feGaussianBlur3997" />
+      <feOffset
+         dx="0"
+         dy="0"
+         result="offset"
+         id="feOffset3999" />
+      <feComposite
+         in="SourceGraphic"
+         in2="offset"
+         operator="over"
+         result="composite2"
+         id="feComposite4001" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <ellipse
+       style="fill:#fafafa;fill-opacity:1;fill-rule:evenodd;stroke:#6e6e6e;stroke-width:0.12323;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter4003)"
+       id="path101"
+       cx="5.291667"
+       cy="5.2916679"
+       rx="4.4363012"
+       ry="4.4363017" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="1.8772347"
+       y="6.4710722"
+       id="text18387"><tspan
+         sodipodi:role="line"
+         id="tspan18385"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke-width:0.264583"
+         x="1.8772347"
+         y="6.4710722">#FA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:1.76389px;line-height:1.25;font-family:'Tw Cen MT';-inkscape-font-specification:'Tw Cen MT, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="7.6726995"
+       y="4.7639065"
+       id="text18387-3"><tspan
+         sodipodi:role="line"
+         id="tspan944"
+         x="7.6726995"
+         y="4.7639065">3</tspan></text>
+  </g>
+</svg>

@@ -4,8 +4,8 @@
     <vendor email="BlackDragon17x@gmail.com">BlackDragon17</vendor>
 
     <description><![CDATA[
-    LightGrayBG is a simple theme which copies the IntelliJ Light theme styling,
-    only modifying the editor backgrounds to be light gray (hex: #FAFAFA).
+    LightGrayBG is a simple tweak to the IntelliJ Light theme,
+    changing its editor background colors from pure white to a more pleasant light gray (hex: #FAFAFA).
     <br><br>
     <a href="https://github.com/BlackDragon17/LightGrayBG">GitHub</a>
     ]]></description>
