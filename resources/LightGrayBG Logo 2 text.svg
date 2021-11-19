@@ -7,7 +7,7 @@
    viewBox="0 0 105.83333 105.83334"
    version="1.1"
    id="svg5"
-   sodipodi:docname="LightGrayBG Logo path 2.svg"
+   sodipodi:docname="LightGrayBG Logo text 2.svg"
    inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -27,7 +27,7 @@
      inkscape:showpageshadow="true"
      showguides="false"
      inkscape:zoom="2"
-     inkscape:cx="226.75"
+     inkscape:cx="263.25"
      inkscape:cy="199.75"
      inkscape:window-width="1920"
      inkscape:window-height="991"
@@ -84,10 +84,10 @@
        style="color-interpolation-filters:sRGB;"
        inkscape:label="Drop Shadow"
        id="filter8644"
-       x="-0.0096553841"
-       y="-0.021351049"
-       width="1.0193108"
-       height="1.0427021">
+       x="-0.011052543"
+       y="-0.026498355"
+       width="1.0221051"
+       height="1.0529967">
       <feFlood
          flood-opacity="0.501961"
          flood-color="rgb(0,0,0)"
@@ -163,23 +163,26 @@
        cx="52.916668"
        cy="52.916668"
        r="47.625" />
-    <g
-       aria-label="#FA³"
-       transform="matrix(1.0080368,0,0,0.99979297,-0.63915377,0.01105575)"
-       id="text3882"
-       style="font-weight:600;font-size:38.8056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';fill:#464646;stroke-width:0.264583;filter:url(#filter8644)">
-      <path
-         d="m 35.560459,47.111796 -0.587389,2.652726 h -4.301207 l -1.098986,5.229661 h 4.699115 L 33.60881,57.64691 h -4.585427 l -1.55374,7.010777 h -3.012739 l 1.515844,-7.010777 h -4.585427 l -1.477948,7.010777 h -3.01274 l 1.477948,-7.010777 h -4.339103 l 0.530546,-2.652727 h 4.395947 l 1.042142,-5.229661 H 15.38079 l 0.549493,-2.652726 h 4.623323 l 1.515844,-7.294998 h 3.050636 l -1.496896,7.294998 h 4.585427 l 1.55374,-7.294998 h 2.993791 l -1.515843,7.294998 z m -7.882387,2.652726 h -4.623323 l -1.136883,5.229661 h 4.642271 z"
-         id="path8704" />
-      <path
-         d="M 54.356922,43.644303 H 44.200769 v 8.166608 h 9.360335 v 3.808558 H 44.200769 V 66.988297 H 39.691134 V 39.816798 h 14.665788 z"
-         id="path8706" />
-      <path
-         d="m 79.178862,66.988297 h -4.94544 L 71.789124,60.07226 H 61.102426 l -2.349558,6.916037 H 53.826376 L 64.001477,39.816798 h 5.078076 z M 70.595397,56.396339 66.824736,45.558056 q -0.170533,-0.530545 -0.360013,-1.705324 h -0.07579 q -0.170533,1.080038 -0.378961,1.705324 l -3.732765,10.838283 z"
-         id="path8708" />
-      <path
-         d="m 79.158808,47.849412 v -2.842209 q 1.488283,1.085207 3.472662,1.085207 1.250571,0 1.943036,-0.537436 0.702801,-0.537435 0.702801,-1.498619 0,-0.992189 -0.868165,-1.529624 -0.85783,-0.537436 -2.366785,-0.537436 h -1.374595 v -2.501144 h 1.271242 q 2.893885,0 2.893885,-1.922366 0,-1.808678 -2.22209,-1.808678 -1.488284,0 -2.893885,0.961183 v -2.666508 q 1.560631,-0.785483 3.638027,-0.785483 2.273766,0 3.534673,1.023195 1.271243,1.023195 1.271243,2.656173 0,2.90422 -2.945562,3.638027 v 0.05168 q 1.570966,0.196371 2.480473,1.147219 0.909507,0.940512 0.909507,2.315108 0,2.077395 -1.51929,3.286626 -1.519289,1.20923 -4.196133,1.20923 -2.294437,0 -3.731044,-0.744141 z"
-         id="path8711" />
-    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.8056px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter8644)"
+       x="13.391245"
+       y="66.988297"
+       id="text3882"><tspan
+         sodipodi:role="line"
+         id="tspan3880"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:38.8056px;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Semi-Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke-width:0.264583"
+         x="13.391245"
+         y="66.988297">#FA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:21.1667px;line-height:1.25;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#464646;fill-opacity:1;stroke:none;stroke-width:0.264583;filter:url(#filter8656)"
+       x="77.949577"
+       y="48.335171"
+       id="text3882-4"><tspan
+         sodipodi:role="line"
+         id="tspan7731"
+         x="77.949577"
+         y="48.335171">3</tspan></text>
   </g>
 </svg>

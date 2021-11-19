@@ -5,9 +5,9 @@
 
     <description><![CDATA[
     LightGrayBG is a simple tweak to the IntelliJ Light theme,
-    changing its editor background colors from pure white to a more pleasant light gray (hex: #FAFAFA).
+    changing its editor background color from pure white to a more pleasant light gray (hex: #FAFAFA).
     <br><br>
-    <a href="https://github.com/BlackDragon17/LightGrayBG">GitHub</a>
+    <a href="https://github.com/BlackDragon17/LightGrayBG">GitHub Repo</a>
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
