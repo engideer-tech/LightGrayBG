@@ -1,3 +1,5 @@
+<img width="200" align="right" src="src/main/resources/META-INF/pluginIcon.svg">
+
 # LightGrayBG
 LightGrayBG is a simple tweak to the IntelliJ Light theme, changing its editor background color from pure white to a more pleasant light gray (hex: #FAFAFA).
 
