@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'org.BlackDragon17'
-version '1.1'
+version '1.2'
 
 repositories {
     mavenCentral()
@@ -17,11 +17,11 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2021.2.3'
+    version = '2021.3'
 }
 patchPluginXml {
     changeNotes = """
-      Change plugin logo and description
+      Update to support future IDE versions
       """
 }
 test {
