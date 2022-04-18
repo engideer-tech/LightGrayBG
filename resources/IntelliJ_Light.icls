@@ -1,9 +1,9 @@
 <scheme name="IntelliJ Light" version="142" parent_scheme="Default">
   <metaInfo>
-    <property name="created">2021-11-16T18:38:42</property>
+    <property name="created">2022-04-18T17:47:05</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-16T18:38:47</property>
+    <property name="ideVersion">2022.1.0.0</property>
+    <property name="modified">2022-04-18T17:47:15</property>
     <property name="originalScheme">_@user_IntelliJ Light</property>
   </metaInfo>
   <colors>
@@ -202,6 +202,11 @@
         <option name="FOREGROUND" value="33b3" />
       </value>
     </option>
+    <option name="GO_COMMENT_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="525252" />
+      </value>
+    </option>
     <option name="GO_EXPORTED_FUNCTION">
       <value>
         <option name="FOREGROUND" value="286d73" />
@@ -245,6 +250,11 @@
     <option name="GO_PACKAGE_LOCAL_CONSTANT">
       <value>
         <option name="FOREGROUND" value="871094" />
+      </value>
+    </option>
+    <option name="GO_SHADOWING_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="708c00" />
       </value>
     </option>
     <option name="GO_TYPE_REFERENCE">
